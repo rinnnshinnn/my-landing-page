@@ -26,7 +26,7 @@ The Banaue Rice Terraces are an ancient marvel carved into the mountains.
 
 ### Mayon Volcano, Albay
 
-![Mayon Volcano](images/mayon_volcano.jepg)[^5]
+![Mayon Volcano](images/mayon_volcano.jpeg)[^5]
 Mayon Volcano is known for its perfect cone shape and active status.
 
 ## Image Credits
@@ -35,4 +35,4 @@ Mayon Volcano is known for its perfect cone shape and active status.
 [^2]: "El Nido", [Source](https://pixabay.com/photos/el-nido-philippines-palawan-island-2654886/)
 [^3]: "Chocolate Hills", [Source](https://ph.pinterest.com/pin/393220611216444154/)
 [^4]: "Banaue Rice Terraces", [Source](https://ph.pinterest.com/pin/1150177192322887798/)
-[^5]: "Mayon Volcano", [Source](URL)
+[^5]: "Mayon Volcano", [Source](https://ph.pinterest.com/pin/68820700525518102/)
