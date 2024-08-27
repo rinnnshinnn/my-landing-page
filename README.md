@@ -2,6 +2,10 @@
 
 Welcome to the Discover Philippines travel guide. Explore the most beautiful tourist spots in the Philippines.
 
+## Live Demo
+
+Take a look at the live demo of this webpage at [https://rinnnshinnn.github.io/my-landing-page/](https://rinnnshinnn.github.io/my-landing-page/).
+
 ## Top Destinations
 
 ### Boracay Beach
